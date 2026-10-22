@@ -9,3 +9,12 @@ button {
  padding: 10px 20px;
  cursor: pointer;
 }
+message {
+    position: absolute;
+    right: 20px;
+ font-size: 18px;
+ color: #333;
+ margin-top: 45px;
+ align-self: flex-end;
+
+}
